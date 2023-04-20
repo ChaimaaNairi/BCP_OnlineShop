@@ -1,5 +1,5 @@
-# BCP_Project
-BCP is an e-commerce platform designed to showcase and sell products created by BCP Creations.
+# BCP_OnlineShop_Project
+BCP_OnlineShop is an e-commerce platform designed to showcase and sell products created by BCP Creations.
 
 The platform includes the following features:
 
